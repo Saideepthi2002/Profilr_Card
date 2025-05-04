@@ -32,7 +32,7 @@ function App() {
   const [State, Setstate] = useState(true);
 
   const PersonDetails = {
-    name: "Ch. SaiDeepthi",
+    name: "Ch. Sai Deepthi",
     age: 20,
     location: "Hyderabad",
     avatarUrl:sdpink,
