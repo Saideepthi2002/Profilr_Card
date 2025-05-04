@@ -33,7 +33,7 @@ function App() {
 
   const PersonDetails = {
     name: "Ch. Sai Deepthi",
-    age: 20,
+    age: 22,
     location: "Hyderabad",
     avatarUrl:sdpink,
   };
